@@ -1,4 +1,4 @@
-package java.DS_BASICS.LinkedList;
+package DS_BASICS.LinkedList;
 
 public class SLL {
     
